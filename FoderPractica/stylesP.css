@@ -1,3 +1,22 @@
+
 *{
-   
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
+
+.form{
+    /*MARGENES LATERALES*/
+    width: 300px;
+    /*COLOR DE FONDO*/
+    background-color: rgba(134, 97, 197, 0.507);
+    /*MARGENES SUPERIORES*/
+    padding: 70px;
+    /*SEPARACION DEL BOX CON RESPECTO A LOS BORDES DE LA PAGINA*/
+    margin: 40px;
+    /*ESQUINAS REDONDEADAS*/
+    border-radius: 0px;
+    /*BORDER ANADE BORDES A LA BOX Y SOLID RGB AGREGA OTRO COLOR*/
+    border: 3px solid rgb(112, 76, 173);
+}
+
